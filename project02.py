@@ -1,7 +1,7 @@
 """
 --------------------------------------------------------------------------
 Day02: Understanding Data Types and How to Manipulate Strings[Beginner]
-Project01: Tip Calculator
+Project02: Tip Calculator
 Description: Insert total bill, percentage of tip and number of bill
 split to and final result will be how much each person should pay
 Steps:
