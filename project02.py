@@ -18,6 +18,6 @@ total_bill = float(input("What was the total bill?\n"))
 tip_percentage = int(input("What percentage tip would you like to give? 10, 12, or 15?\n"))
 split_bill = int(input("How many people to split the bill?\n"))
 final_bill = (total_bill+total_bill*tip_percentage*0.01)/split_bill
-result_in_2_dec = '{:.2f}'.format(final_bill)
-print(f'Each person should pay: {result_in_2_dec}')
+result = '{:.2f}'.format(final_bill)
+print(f'Each person should pay: {result}')
 
