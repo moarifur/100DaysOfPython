@@ -2,11 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aba07fcf-d74d-4813-b94f-3c015fbbff3c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/cc6.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cc6.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cc6.3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cc6.4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cc.3.3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/code_challenge_day03/cc.3.3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cc3.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/code_challenge_day03/cc3.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cc3.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/code_challenge_day03/cc3.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cc3.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/code_challenge_day03/cc3.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cc3.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/code_challenge_day03/cc3.4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cc3.5.py" beforeDir="false" afterPath="$PROJECT_DIR$/code_challenge_day03/cc3.5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cc4.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/code_challenge_day04/cc4.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cc4.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/code_challenge_day04/cc4.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cc4.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/code_challenge_day04/cc4.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cc5.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/code_challenge_day05/cc5.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cc5.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/code_challenge_day05/cc5.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cc5.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/code_challenge_day05/cc5.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cc5.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/code_challenge_day05/cc5.4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cc6.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/code_challenge_day06/cc6.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cc6.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/code_challenge_day06/cc6.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cc6.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/code_challenge_day06/cc6.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cc6.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/code_challenge_day06/cc6.4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +37,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/cc3.4.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/code_challenge_day03/cc3.4.py" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -47,6 +60,10 @@
       <recent name="D:\100DaysOfPython" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\100DaysOfPython\code_challenge_day06" />
+      <recent name="D:\100DaysOfPython\code_challenge_day05" />
+      <recent name="D:\100DaysOfPython\code_challenge_day04" />
+      <recent name="D:\100DaysOfPython\code_challenge_day03" />
       <recent name="D:\100DaysOfPython" />
     </key>
   </component>
@@ -64,7 +81,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cc5.1.py" />
+      <option name="SCRIPT_NAME" value="D:\100DaysOfPython\code_challenge_day05\cc5.1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -86,7 +103,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cc5.2.py" />
+      <option name="SCRIPT_NAME" value="D:\100DaysOfPython\code_challenge_day05\cc5.2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -108,7 +125,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cc5.3.py" />
+      <option name="SCRIPT_NAME" value="D:\100DaysOfPython\code_challenge_day05\cc5.3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -130,7 +147,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cc5.4.py" />
+      <option name="SCRIPT_NAME" value="D:\100DaysOfPython\code_challenge_day05\cc5.4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -179,7 +196,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656009231685</updated>
-      <workItem from="1656009237945" duration="61700000" />
+      <workItem from="1656009237945" duration="62649000" />
     </task>
     <servers />
   </component>
