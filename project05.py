@@ -12,7 +12,6 @@ Steps:
     - List Method: append()
     - Built-in Method: input(), range(), len()
     - String Method: Formatted string literals, join() - to convert list to string
-    [https://www.asciiart.eu/people/body-parts/hand-gestures]
 ------------------------------------------------------------------------------------
 """
 import random
