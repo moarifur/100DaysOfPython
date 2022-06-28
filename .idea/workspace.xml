@@ -2,24 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aba07fcf-d74d-4813-b94f-3c015fbbff3c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/code_challenge_day07/cc7.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code_challenge_day07/cc7.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code_challenge_day07/cc7.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code_challenge_day07/cc7.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project07/flowchart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project07/hangman_art.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project07/hangman_wordlist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project07/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cc.3.3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/code_challenge_day03/cc.3.3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cc3.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/code_challenge_day03/cc3.1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cc3.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/code_challenge_day03/cc3.2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cc3.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/code_challenge_day03/cc3.3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cc3.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/code_challenge_day03/cc3.4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cc3.5.py" beforeDir="false" afterPath="$PROJECT_DIR$/code_challenge_day03/cc3.5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cc4.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/code_challenge_day04/cc4.1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cc4.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/code_challenge_day04/cc4.2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cc4.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/code_challenge_day04/cc4.3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cc5.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/code_challenge_day05/cc5.1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cc5.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/code_challenge_day05/cc5.2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cc5.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/code_challenge_day05/cc5.3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cc5.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/code_challenge_day05/cc5.4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cc6.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/code_challenge_day06/cc6.1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cc6.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/code_challenge_day06/cc6.2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cc6.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/code_challenge_day06/cc6.3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cc6.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/code_challenge_day06/cc6.4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,23 +43,24 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/100DaysOfPython"
+    "last_opened_file_path": "D:/100DaysOfPython/code_challenge_day07"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\100DaysOfPython\code_challenge_day07" />
       <recent name="D:\100DaysOfPython" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\100DaysOfPython\project07" />
       <recent name="D:\100DaysOfPython\code_challenge_day06" />
       <recent name="D:\100DaysOfPython\code_challenge_day05" />
       <recent name="D:\100DaysOfPython\code_challenge_day04" />
       <recent name="D:\100DaysOfPython\code_challenge_day03" />
-      <recent name="D:\100DaysOfPython" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.project05">
-    <configuration name="cc5.1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.main">
+    <configuration name="cc7.1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100DaysOfPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -76,12 +68,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code_challenge_day07" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\100DaysOfPython\code_challenge_day05\cc5.1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code_challenge_day07/cc7.1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -90,7 +82,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="cc5.2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="cc7.2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100DaysOfPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -98,12 +90,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code_challenge_day07" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\100DaysOfPython\code_challenge_day05\cc5.2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code_challenge_day07/cc7.2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -112,7 +104,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="cc5.3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="cc7.3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100DaysOfPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -120,12 +112,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code_challenge_day07" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\100DaysOfPython\code_challenge_day05\cc5.3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code_challenge_day07/cc7.3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -134,7 +126,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="cc5.4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="cc7.4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100DaysOfPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -142,12 +134,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code_challenge_day07" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\100DaysOfPython\code_challenge_day05\cc5.4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code_challenge_day07/cc7.4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,7 +148,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="project05" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100DaysOfPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -164,12 +156,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/project07" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project05.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project07/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -180,11 +172,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.project05" />
-        <item itemvalue="Python.cc5.4" />
-        <item itemvalue="Python.cc5.3" />
-        <item itemvalue="Python.cc5.2" />
-        <item itemvalue="Python.cc5.1" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.cc7.4" />
+        <item itemvalue="Python.cc7.3" />
+        <item itemvalue="Python.cc7.2" />
+        <item itemvalue="Python.cc7.1" />
       </list>
     </recent_temporary>
   </component>
@@ -196,7 +188,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656009231685</updated>
-      <workItem from="1656009237945" duration="62649000" />
+      <workItem from="1656009237945" duration="78741000" />
     </task>
     <servers />
   </component>
@@ -220,12 +212,17 @@
     <SUITE FILE_PATH="coverage/100DaysOfPython$project04.coverage" NAME="project04 Coverage Results" MODIFIED="1656248248195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/100DaysOfPython$cc3_4.coverage" NAME="cc3.4 Coverage Results" MODIFIED="1656168671759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/100DaysOfPython$cc4_2.coverage" NAME="cc4.2 Coverage Results" MODIFIED="1656185651738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/100DaysOfPython$main.coverage" NAME="main Coverage Results" MODIFIED="1656437553071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project07" />
     <SUITE FILE_PATH="coverage/100DaysOfPython$project03.coverage" NAME="project03 Coverage Results" MODIFIED="1656151862693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/100DaysOfPython$cc7_3.coverage" NAME="cc7.3 Coverage Results" MODIFIED="1656413775732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code_challenge_day07" />
     <SUITE FILE_PATH="coverage/100DaysOfPython$cc5_3.coverage" NAME="cc5.3 Coverage Results" MODIFIED="1656260051803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/100DaysOfPython$cc3_3.coverage" NAME="cc3.3 Coverage Results" MODIFIED="1656166041735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/100DaysOfPython$cc4_1.coverage" NAME="cc4.1 Coverage Results" MODIFIED="1656182792288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/100DaysOfPython$project05.coverage" NAME="project05 Coverage Results" MODIFIED="1656324242065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/100DaysOfPython$cc7_2.coverage" NAME="cc7.2 Coverage Results" MODIFIED="1656412400460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code_challenge_day07" />
     <SUITE FILE_PATH="coverage/100DaysOfPython$cc5_2.coverage" NAME="cc5.2 Coverage Results" MODIFIED="1656253942238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/100DaysOfPython$cc7_1.coverage" NAME="cc7.1 Coverage Results" MODIFIED="1656401367645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code_challenge_day07" />
+    <SUITE FILE_PATH="coverage/100DaysOfPython$cc7_4.coverage" NAME="cc7.4 Coverage Results" MODIFIED="1656418233320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code_challenge_day07" />
     <SUITE FILE_PATH="coverage/100DaysOfPython$cc3_1.coverage" NAME="cc3.1 Coverage Results" MODIFIED="1656153448630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/100DaysOfPython$cc4_3.coverage" NAME="cc4.3 Coverage Results" MODIFIED="1656223073432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/100DaysOfPython$cc3_5.coverage" NAME="cc3.5 Coverage Results" MODIFIED="1656181516057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
