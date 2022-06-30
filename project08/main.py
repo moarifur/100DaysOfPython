@@ -71,6 +71,8 @@ while True:
         break
     else:
         print('What are you typing?')
+
+
 """
 --------------------------------------------------------------------
 Things you'll learn:
