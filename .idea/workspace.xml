@@ -2,13 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aba07fcf-d74d-4813-b94f-3c015fbbff3c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/code_challenge_day08/cc8.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code_challenge_day08/cc8.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code_challenge_day08/cc8.3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code_challenge_day08/cc8.4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code_challenge_day08/cc8.5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project08/art.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project08/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -188,7 +181,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656009231685</updated>
-      <workItem from="1656009237945" duration="94108000" />
+      <workItem from="1656009237945" duration="98602000" />
     </task>
     <servers />
   </component>
@@ -207,11 +200,11 @@
     </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/100DaysOfPython$cc8_5.coverage" NAME="cc8.5 Coverage Results" MODIFIED="1656569445353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code_challenge_day08" />
+    <SUITE FILE_PATH="coverage/100DaysOfPython$cc8_5.coverage" NAME="cc8.5 Coverage Results" MODIFIED="1656573424026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code_challenge_day08" />
     <SUITE FILE_PATH="coverage/100DaysOfPython$cc8_2.coverage" NAME="cc8.2 Coverage Results" MODIFIED="1656514189334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code_challenge_day08" />
     <SUITE FILE_PATH="coverage/100DaysOfPython$cc3_4.coverage" NAME="cc3.4 Coverage Results" MODIFIED="1656168671759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/100DaysOfPython$cc4_2.coverage" NAME="cc4.2 Coverage Results" MODIFIED="1656185651738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/100DaysOfPython$main.coverage" NAME="main Coverage Results" MODIFIED="1656571421310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project08" />
+    <SUITE FILE_PATH="coverage/100DaysOfPython$main.coverage" NAME="main Coverage Results" MODIFIED="1656576682322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project08" />
     <SUITE FILE_PATH="coverage/100DaysOfPython$project03.coverage" NAME="project03 Coverage Results" MODIFIED="1656151862693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/100DaysOfPython$cc5_3.coverage" NAME="cc5.3 Coverage Results" MODIFIED="1656260051803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/100DaysOfPython$cc4_1.coverage" NAME="cc4.1 Coverage Results" MODIFIED="1656182792288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
