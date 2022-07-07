@@ -1,7 +1,7 @@
 """
 -------------------------------------------------------------------------
-Day14: Higher Lower Game Project
-Project14: Coffee Machine Program
+Day15: Local Development Environment Setup & the Coffee Machine[Intermediate]
+Project15: Coffee Machine Program
 Code Overview: https://tinyurl.com/22cut5pr
 Code Preview: https://replit.com/@appbrewery/coffee-machine-final
 *** Press 'Run'/ 'play' button to understand how does the challenge work
